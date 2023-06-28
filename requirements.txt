@@ -1,0 +1,10 @@
+hugchat
+streamlit
+streamlit-chat
+streamlit-extras
+cohere
+unstructured
+pinecone-client
+transformers
+openai
+tiktoken
